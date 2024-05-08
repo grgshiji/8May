@@ -1,0 +1,16 @@
+{
+  "name": "8May",
+  "type": "package",
+  "blockId": "lrrS3TG8xtOC63iMTTvRe",
+  "source": {
+    "https": "https://github.com/grgshiji/8May.git",
+    "ssh": "git@github.com:grgshiji/8May.git",
+    "branch": "block_8May"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
