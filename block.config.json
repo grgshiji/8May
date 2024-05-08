@@ -1,0 +1,16 @@
+{
+  "name": "8May",
+  "type": "package",
+  "blockId": "lrrS3TG8xtOC63iMTTvRe",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_8May"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
